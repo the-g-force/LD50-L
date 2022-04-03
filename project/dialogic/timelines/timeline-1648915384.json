@@ -1,0 +1,49 @@
+{
+	"events": [
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]I am here to kill you.[/wave]"
+		},
+		{
+			"choice": "Please don't.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648916504.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "I command you not to!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50 freq=2][color=#0]I do not take orders from mortals."
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648915384.json",
+		"name": "start"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "                                                                                                            ",
+	"display_name_bool": false,
+	"id": "character-1648915477.json",
+	"mirror_portraits": false,
+	"name": "You",
+	"nickname": "                                              ",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Node2D.tscn"
+		},
+		{
+			"name": "New Piskel (29)",
+			"path": "res://New Piskel (29).png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

@@ -1,0 +1,150 @@
+{
+	"events": [
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]Umm, really?"
+		},
+		{
+			"choice": "yup!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Well it wasn't a very good joke, and the penalty for telling me a bad joke is DEATH!!"
+		},
+		{
+			"character": "character-1648915477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seems a bit harsh."
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No I was joking.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Well, it wasn't very funny."
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]Don't you agree?"
+		},
+		{
+			"choice": "No.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]You DARE disagree with ME!?!"
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Maybe.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Stop being so vague!"
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]Yes, or no?"
+		},
+		{
+			"choice": "no",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]You DARE disagree with ME?!?"
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648945047.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "yes.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648945047.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648941253.json",
+		"name": "energy wastige"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"events": [
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Well... Ok... But you didn't put sugar on top. Why didn't you put sugar on top? "
+		},
+		{
+			"character": "character-1648915477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ummm..."
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]Answer me! WHY DIDN'T YOU PUT SUGAR ON TOP?!!!!!"
+		},
+		{
+			"choice": "I prefer sprinkles",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Well... I suppose that's reasonable. Even if it's WRONG!"
+		},
+		{
+			"change_timeline": "timeline-1648921922.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "I thought you were a wraith; so you could not eat.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]You DARE insult ME?!??!"
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "I didn't want to waste the energy.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648941253.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648916895.json",
+		"name": "please"
+	}
+}

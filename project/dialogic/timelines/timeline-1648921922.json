@@ -1,0 +1,144 @@
+{
+	"events": [
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]I mean, why on earth would you prefer sprinkles over SUUUGAR?!?!!?!"
+		},
+		{
+			"choice": "Well, sprinkles are basically just colorful sugar. I mean, why don't YOU like sprinkles?  ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]I don't like colorful things, so there."
+		},
+		{
+			"character": "character-1648915477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know, now that you mention it.\nThat's the real reason I don't like you, you don't have any color, just black.."
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]YOU DON'T LIKE ME??!!?!!??!"
+		},
+		{
+			"choice": "Of course not.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Well, DUH.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Does ANYONE like you? I mean, really.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "it sounds cooler.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Well... Ok, that might be true. But really, I should get back to killing you."
+		},
+		{
+			"character": "character-1648915477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I don't want to die!"
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]Yeah, but it's not like you rule the world or anything."
+		},
+		{
+			"choice": "well, true...",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]See?"
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "But I do!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1649005782.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648921922.json",
+		"name": "sprinkles"
+	}
+}

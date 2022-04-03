@@ -1,0 +1,168 @@
+{
+	"events": [
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]And why should I care?"
+		},
+		{
+			"choice": "Because if you do kill me, my people will rile up and kill you!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]I am invincible. You cannot kill me."
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Because that means I am in charge of you!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]No living man may hinder m- what?\n [color=#0][wave amp=50 freq=2]Oh, sorry, no living mortal may command me."
+		},
+		{
+			"change_timeline": "timeline-1649000428.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Um... because... Uh... Hey! how's the weather at your place!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Pretty good, I think we have a zombie apocalypse scheduled for the day of the dea- Wait one moment!"
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]Are you trying to delay your death?"
+		},
+		{
+			"choice": "no.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LIAR!"
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "yes.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Well, at least you're honest."
+		},
+		{
+			"character": "character-1648915477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know, right?"
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "[color=#0][wave amp=50 freq=2]You dare talk to me like that?!"
+		},
+		{
+			"choice": "no.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]Bu- But- you just did."
+		},
+		{
+			"character": "character-1648915477.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, so?"
+		},
+		{
+			"character": "character-1648915097.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#0][wave amp=50 freq=2]RrraaaaRrRaAAaAaaAAaAaghHhh"
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "yes.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1648916650.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1648916896.json",
+		"name": "I rule the world!"
+	}
+}

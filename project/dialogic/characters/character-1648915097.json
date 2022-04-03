@@ -1,0 +1,21 @@
+{
+	"color": "#ff000000",
+	"description": "",
+	"display_name": "GrimReaper",
+	"display_name_bool": true,
+	"id": "character-1648915097.json",
+	"mirror_portraits": false,
+	"name": "GrimReaper",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://New Piskel (26).png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
