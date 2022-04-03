@@ -7,7 +7,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]And why should I care?"
+			"question": "[color=#000000][wave amp=50 freq=2]And why should I care?"
 		},
 		{
 			"choice": "Because if you do kill me, my people will rile up and kill you!",
@@ -20,7 +20,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]I am invincible. You cannot kill me."
+			"text": "[color=#000000][wave amp=50 freq=2]I am invincible. You cannot kill me."
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",
@@ -37,7 +37,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]No living man may hinder m- what?\n [color=#0][wave amp=50 freq=2]Oh, sorry, no living mortal may command me."
+			"text": "[color=#000000][wave amp=50 freq=2]No living man may hinder m- what?\n [color=#000000][wave amp=50 freq=2]Oh, sorry, no living mortal may command me."
 		},
 		{
 			"change_timeline": "timeline-1649000428.json",
@@ -54,7 +54,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Pretty good, I think we have a zombie apocalypse scheduled for the day of the dea- Wait one moment!"
+			"text": "[color=#000000][wave amp=50 freq=2]Pretty good, I think we have a zombie apocalypse scheduled for the day of the dea- Wait one moment!"
 		},
 		{
 			"character": "character-1648915097.json",
@@ -63,7 +63,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]Are you trying to delay your death?"
+			"question": "[color=#000000][wave amp=50 freq=2]Are you trying to delay your death?"
 		},
 		{
 			"choice": "no.",
@@ -93,7 +93,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Well, at least you're honest."
+			"text": "[color=#000000][wave amp=50 freq=2]Well, at least you're honest."
 		},
 		{
 			"character": "character-1648915477.json",
@@ -108,7 +108,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]You dare talk to me like that?!"
+			"question": "[color=#000000][wave amp=50 freq=2]You dare talk to me like that?!"
 		},
 		{
 			"choice": "no.",
@@ -121,7 +121,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Bu- But- you just did."
+			"text": "[color=#000000][wave amp=50 freq=2]Bu- But- you just did."
 		},
 		{
 			"character": "character-1648915477.json",
@@ -133,7 +133,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]RrraaaaRrRaAAaAaaAAaAaghHhh"
+			"text": "[color=#000000][wave amp=50 freq=2]RrraaaaRrRaAAaAaaAAaAaghHhh"
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",

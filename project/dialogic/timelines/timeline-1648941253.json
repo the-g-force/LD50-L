@@ -7,7 +7,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]Umm, really?"
+			"question": "[color=#000000][wave amp=50 freq=2]Umm, really?"
 		},
 		{
 			"choice": "yup!",
@@ -20,7 +20,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Well it wasn't a very good joke, and the penalty for telling me a bad joke is DEATH!!"
+			"text": "[color=#000000][wave amp=50 freq=2]Well it wasn't a very good joke, and the penalty for telling me a bad joke is DEATH!!"
 		},
 		{
 			"character": "character-1648915477.json",
@@ -43,7 +43,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Well, it wasn't very funny."
+			"text": "[color=#000000][wave amp=50 freq=2]Well, it wasn't very funny."
 		},
 		{
 			"character": "character-1648915097.json",
@@ -52,7 +52,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]Don't you agree?"
+			"question": "[color=#000000][wave amp=50 freq=2]Don't you agree?"
 		},
 		{
 			"choice": "No.",
@@ -65,7 +65,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]You DARE disagree with ME!?!"
+			"text": "[color=#000000][wave amp=50 freq=2]You DARE disagree with ME!?!"
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",
@@ -82,7 +82,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Stop being so vague!"
+			"text": "[color=#000000][wave amp=50 freq=2]Stop being so vague!"
 		},
 		{
 			"character": "character-1648915097.json",
@@ -91,7 +91,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]Yes, or no?"
+			"question": "[color=#000000][wave amp=50 freq=2]Yes, or no?"
 		},
 		{
 			"choice": "no",
@@ -104,7 +104,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]You DARE disagree with ME?!?"
+			"text": "[color=#000000][wave amp=50 freq=2]You DARE disagree with ME?!?"
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",

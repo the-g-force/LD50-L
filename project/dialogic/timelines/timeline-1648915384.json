@@ -7,7 +7,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]I am here to kill you.[/wave]"
+			"question": "[color=#000000][wave amp=50 freq=2]I am here to kill you.[/wave]"
 		},
 		{
 			"choice": "Please don't.",
@@ -31,7 +31,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[wave amp=50 freq=2][color=#0]I do not take orders from mortals."
+			"text": "[wave amp=50 freq=2][color=#000000]I do not take orders from mortals."
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",

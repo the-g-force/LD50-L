@@ -7,7 +7,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]Why not?"
+			"question": "[color=#000000][wave amp=50 freq=2]Why not?"
 		},
 		{
 			"choice": "If you do I will kill you",
@@ -20,7 +20,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]I am immortal. You cannot kill me."
+			"text": "[color=#000000][wave amp=50 freq=2]I am immortal. You cannot kill me."
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",

@@ -148,7 +148,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Hey! You! I just killed you. Why are you still alive??!!?!"
+			"text": "[color=#000000][wave amp=50 freq=2]Hey! You! I just killed you. Why are you still alive??!!?!"
 		},
 		{
 			"character": "character-1648915477.json",
@@ -160,7 +160,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]You DARE!! \"Silly stuff\" indeed. You will die for that insult."
+			"text": "[color=#000000][wave amp=50 freq=2]You DARE!! \"Silly stuff\" indeed. You will die for that insult."
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",

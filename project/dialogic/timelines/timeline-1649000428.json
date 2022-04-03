@@ -10,7 +10,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]That's just how it works. No living man may command me."
+			"text": "[color=#000000][wave amp=50 freq=2]That's just how it works. No living man may command me."
 		},
 		{
 			"character": "character-1648915097.json",
@@ -19,7 +19,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]So since you're a man you cannot command me. "
+			"question": "[color=#000000][wave amp=50 freq=2]So since you're a man you cannot command me. "
 		},
 		{
 			"choice": "Ah! But no living man am I!",
@@ -35,7 +35,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]Really?"
+			"question": "[color=#000000][wave amp=50 freq=2]Really?"
 		},
 		{
 			"choice": "Nope! I'm dead, not living.",
@@ -48,7 +48,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Then how are you talking?"
+			"text": "[color=#000000][wave amp=50 freq=2]Then how are you talking?"
 		},
 		{
 			"character": "character-1648915477.json",
@@ -60,7 +60,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]See?"
+			"text": "[color=#000000][wave amp=50 freq=2]See?"
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",
@@ -77,7 +77,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Yeah, well, I don't really care."
+			"text": "[color=#000000][wave amp=50 freq=2]Yeah, well, I don't really care."
 		},
 		{
 			"character": "character-1648915477.json",
@@ -89,7 +89,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Yep."
+			"text": "[color=#000000][wave amp=50 freq=2]Yep."
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",
@@ -109,7 +109,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Yup."
+			"text": "[color=#000000][wave amp=50 freq=2]Yup."
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",

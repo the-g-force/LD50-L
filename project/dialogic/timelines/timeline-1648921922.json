@@ -7,7 +7,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]I mean, why on earth would you prefer sprinkles over SUUUGAR?!?!!?!"
+			"question": "[color=#000000][wave amp=50 freq=2]I mean, why on earth would you prefer sprinkles over SUUUGAR?!?!!?!"
 		},
 		{
 			"choice": "Well, sprinkles are basically just colorful sugar. I mean, why don't YOU like sprinkles?  ",
@@ -20,7 +20,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]I don't like colorful things, so there."
+			"text": "[color=#000000][wave amp=50 freq=2]I don't like colorful things, so there."
 		},
 		{
 			"character": "character-1648915477.json",
@@ -35,7 +35,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]YOU DON'T LIKE ME??!!?!!??!"
+			"question": "[color=#000000][wave amp=50 freq=2]YOU DON'T LIKE ME??!!?!!??!"
 		},
 		{
 			"choice": "Of course not.",
@@ -84,7 +84,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]Well... Ok, that might be true. But really, I should get back to killing you."
+			"text": "[color=#000000][wave amp=50 freq=2]Well... Ok, that might be true. But really, I should get back to killing you."
 		},
 		{
 			"character": "character-1648915477.json",
@@ -99,7 +99,7 @@
 
 			],
 			"portrait": "",
-			"question": "[color=#0][wave amp=50 freq=2]Yeah, but it's not like you rule the world or anything."
+			"question": "[color=#000000][wave amp=50 freq=2]Yeah, but it's not like you rule the world or anything."
 		},
 		{
 			"choice": "well, true...",
@@ -112,7 +112,7 @@
 			"character": "character-1648915097.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[color=#0][wave amp=50 freq=2]See?"
+			"text": "[color=#000000][wave amp=50 freq=2]See?"
 		},
 		{
 			"change_timeline": "timeline-1648916650.json",
